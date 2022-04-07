@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.aliyun.alink.linksdk:iot-linkkit-java:1.2.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.aliyun.alink.linksdk:iot-mqttclient:1.0.6" level="project" />
+    <orderEntry type="library" name="Maven: com.aliyun.alink.linksdk:opensource-paho-java:1.2.1" level="project" />
+    <orderEntry type="library" name="Maven: com.aliyun.alink.linksdk:iot-device-manager-java:1.2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.aliyun.alink.linksdk:iot-apiclient:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.aliyun.alink.linksdk:network-core:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.6.0" level="project" />
+    <orderEntry type="library" name="Maven: com.aliyun.alink.linksdk:public-tmp-java:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.aliyun.alink.linksdk:tools-java:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.aliyun.alink.linksdk:public-cmp-java:1.3.5" level="project" />
+    <orderEntry type="library" name="Maven: com.aliyun.alink.linksdk:public-channel-gateway-java:1.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.25" level="project" />
+  </component>
+</module>
